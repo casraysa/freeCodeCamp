@@ -18,9 +18,9 @@ videoId: aRY_xjL35v0
 ```yml
 question:
   text: 'What will the following program print out:
-<pre>x = 43<br>
-x = x + 1<br>
-print(x)</pre>'
+<pre>
+x = 43<br>x = x + 1<br>print(x)
+</pre>'
   answers:
     - 'x'
     - 'x + 1'
